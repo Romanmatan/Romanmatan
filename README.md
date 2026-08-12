@@ -1,5 +1,5 @@
 ## Hi there 👋
-I'm Roman simonov
+I'm Roman Simonov
 The programmer advanced in C++ and Python, interest in machine learning, physics and especially digital signal processing.
 Also having experience with use of AI agents and AI image generation.
 <!--
